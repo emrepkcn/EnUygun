@@ -1,0 +1,9 @@
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Entities\bin\Debug\EnUygun.Entities.dll
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Entities\bin\Debug\EnUygun.Entities.pdb
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Entities\obj\Debug\EnUygun.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Entities\obj\Debug\EnUygun.Entities.dll
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Entities\obj\Debug\EnUygun.Entities.pdb
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Entities\obj\Debug\EnUygun.Entities.csproj.CopyComplete
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Entities\obj\Debug\EnUygun.Entities.csproj.AssemblyReference.cache

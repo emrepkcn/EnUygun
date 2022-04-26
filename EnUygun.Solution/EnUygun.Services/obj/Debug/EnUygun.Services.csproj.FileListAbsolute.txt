@@ -1,0 +1,11 @@
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Services\bin\Debug\EnUygun.Services.dll
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Services\bin\Debug\EnUygun.Services.pdb
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Services\obj\Debug\EnUygun.Services.csproj.CoreCompileInputs.cache
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Services\obj\Debug\EnUygun.Services.csproj.CopyComplete
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Services\obj\Debug\EnUygun.Services.dll
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Services\obj\Debug\EnUygun.Services.pdb
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Services\bin\Debug\EnUygun.Entities.dll
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Services\bin\Debug\EnUygun.Entities.pdb
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Services\obj\Debug\EnUygun.Services.csproj.AssemblyReference.cache

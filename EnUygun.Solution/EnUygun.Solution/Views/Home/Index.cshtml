@@ -1,0 +1,72 @@
+﻿@model List<EnUygun.Solution.Models.DevJobVidewData>
+@{
+
+    ViewBag.Title = "Home Page";
+}
+
+    <div class="row">
+        @{
+            var hafta = Model.GroupBy(x => x.Weeks).Select(x => x.FirstOrDefault()).OrderBy(x => x.Weeks).ToList();
+        }
+
+
+        <div class="text-center" role="alert" style="color: burlywood; font-size:20px;">
+            Renklendirilmiş Satırlar Taskın Zorluk Derecesine Göre Süresi Hesaplanarak Getirilmiştir.
+        </div>
+        @foreach (var week in Model.GroupBy(x => x.Weeks).Select(x => x.FirstOrDefault()).OrderBy(x => x.Weeks).ToList())
+        {
+
+            <h1 class="text-center" style="color:cadetblue">@week.Weeks<span>.Hafta</span></h1>
+            <hr />
+
+            <div class="col-md-12 text-center" style="font-weight:700; color:burlywood;">
+                <div class="col-md-3">
+                    <h3 class="">Developer Name</h3>
+                    <hr />
+                </div>
+                <div class="col-md-3">
+                    <h3>Task Name</h3>
+                    <hr />
+                </div>
+                <div class="col-md-3">
+                    <h3>Task Level</h3>
+                    <hr />
+                </div>
+                <div class="col-md-3">
+                    <h3>Task Time</h3>
+                    <hr />
+                </div>
+            </div>
+            <hr />
+
+            foreach (var task in Model.Where(x => x.Weeks == week.Weeks).ToList())
+            {
+                var bColor = "";
+                <div class="col-md-12 text-center form-control" style="font-size:20px;">
+                    @if (task.DevName.Substring(3, 1) == task.TaskLevel.ToString())
+                    {
+                        bColor = "white";
+                    }
+                    else
+                    {
+                        bColor = "#eec28a";
+                    }
+
+                    <div class="col-md-3" style="background-color:@bColor">
+                        @task.DevName
+                    </div>
+                    <div class="col-md-3" style="background-color:@bColor">
+                        @task.TaskName
+                    </div>
+                    <div class="col-md-3" style="background-color:@bColor">
+                        @task.TaskLevel
+                    </div>
+                    <div class="col-md-3" style="background-color:@bColor">
+                        @task.TaskTime
+                    </div>
+                </div>
+            }
+        }
+
+
+    </div>

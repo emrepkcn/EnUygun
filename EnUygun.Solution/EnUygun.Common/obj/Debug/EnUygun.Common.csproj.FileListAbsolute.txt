@@ -1,0 +1,6 @@
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Common\bin\Debug\EnUygun.Common.dll
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Common\bin\Debug\EnUygun.Common.pdb
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Common\obj\Debug\EnUygun.Common.csprojAssemblyReference.cache
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Common\obj\Debug\EnUygun.Common.csproj.CoreCompileInputs.cache
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Common\obj\Debug\EnUygun.Common.dll
+C:\Users\pakca\OneDrive\Masaüstü\EnUygun\EnUygun.Solution\EnUygun.Common\obj\Debug\EnUygun.Common.pdb
